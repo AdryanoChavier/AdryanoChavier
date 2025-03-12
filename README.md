@@ -2,9 +2,6 @@
   <a href="https://github.com/AdryanoChavier">
     <img src="https://readme-typing-svg.demolab.com?font=Ariel&weight=800&size=30&letterSpacing=speed&duration=4000&pause=1000&color=f75c7e&v&width=435&lines=Developer+Software+.NET;2+years+of+coding+experience;Full+Stack+Web" /></a>
 </p>
-<br/>
-<br/>
-
 
 # Linguagens e Tecnologias
 
@@ -108,8 +105,7 @@
 </p>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 # 📊 Estatísticas
 
